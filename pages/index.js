@@ -21,7 +21,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="" className={styles.card}>
             <h2>1. Things a Product Advocate Might Do &rarr;</h2>
           </a>
 
