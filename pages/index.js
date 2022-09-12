@@ -22,35 +22,42 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>1. Things a Product Advocate Might Do&rarr;</h2>
+            <h2>1. Things a Product Advocate Might Do &rarr;</h2>
           </a>
 
           <a
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
           >
-            <h2>2. Reflection on past experience&rarr;</h2>
+            <h2>2. Reflection on past experience &rarr;</h2>
           </a>
 
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>3. Using Next.js&rarr;</h2>
+            <h2>3. Using Next.js &rarr;</h2>
           </a>
 
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>4. Practice Email Responses&rarr;</h2>
+            <h2>4. Practice Email Responses &rarr;</h2>
           </a>
 
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>5. Your personal recommendations&rarr;</h2>
+            <h2>5. Your personal recommendations &rarr;</h2>
+          </a>
+
+          <a
+            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            className={styles.card}
+          >
+            <h3>Download CV &darr;</h3>
           </a>
         </div>
       </main>
