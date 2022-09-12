@@ -50,14 +50,7 @@ export default function Home() {
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>5. Your personal recommendations &rarr;</h2>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Download CV &darr;</h3>
+            <h2>5. My personal recommendations &rarr;</h2>
           </a>
         </div>
       </main>
