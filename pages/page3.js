@@ -1,5 +1,5 @@
 export default function page3(){
   return(
-    <h2> about page </h2>
+    <h2> Using Next.js </h2>
     )
   }
