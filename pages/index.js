@@ -13,11 +13,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <a href="https://www.linkedin.com/in/oliver-anyanwu/">Oliver Anyanwu</a> - Product Advocate Skill Test
+          Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
-          At Vercel, the Product Advocate team is on the front lines of revenue driving & customer communications. 
+          Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
