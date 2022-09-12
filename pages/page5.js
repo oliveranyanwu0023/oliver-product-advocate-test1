@@ -1,5 +1,5 @@
 export default function page5() {
   return(
-    <h2> about page </h2>
+    <h2> Your personal recommendations</h2>
     )
   }

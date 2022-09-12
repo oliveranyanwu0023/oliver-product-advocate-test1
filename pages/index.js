@@ -21,36 +21,36 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="" className={styles.card}>
+          <a href="https://oliver-product-advocate-test1-fzlz7vr7d-oliveranyanwu0023.vercel.app/page1" className={styles.card}>
             <h2>1. Things a Product Advocate Might Do &rarr;</h2>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://oliver-product-advocate-test1-fzlz7vr7d-oliveranyanwu0023.vercel.app/page2"
             className={styles.card}
           >
             <h2>2. Reflection on past experience &rarr;</h2>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://oliver-product-advocate-test1-fzlz7vr7d-oliveranyanwu0023.vercel.app/page3"
             className={styles.card}
           >
             <h2>3. Using Next.js &rarr;</h2>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://oliver-product-advocate-test1-fzlz7vr7d-oliveranyanwu0023.vercel.app/page4"
             className={styles.card}
           >
             <h2>4. Practice Email Responses &rarr;</h2>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://oliver-product-advocate-test1-fzlz7vr7d-oliveranyanwu0023.vercel.app/page5"
             className={styles.card}
           >
-            <h2>5. My personal recommendations &rarr;</h2>
+            <h2>5. Your personal recommendations &rarr;</h2>
           </a>
         </div>
       </main>
