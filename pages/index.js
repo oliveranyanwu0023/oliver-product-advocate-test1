@@ -21,7 +21,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="/q1" className={styles.card}>
+          <a href="https://oliver-product-advocate-test1-fzlz7vr7d-oliveranyanwu0023.vercel.app/q1" className={styles.card}>
             <h2>1. Things a Product Advocate Might Do &rarr;</h2>
           </a>
 
