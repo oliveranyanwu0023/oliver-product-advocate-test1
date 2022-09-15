@@ -22,20 +22,20 @@ export default function FifthQuestion() {
           </p>
 
           <p className={styles.description}>
-            <h2>1. "A mom and pop business?"</h2>
+            <h2>1. A mom and pop business?</h2>
               <ul>
                 <li></li>
                 <li></li>
                 <li></li>
               </ul>
 
-             <h2>2. "An NFT?"</h2>
+             <h2>2. An NFT?</h2>
               <ul>
                 <li>]</li>
                 <li></li>
                 <li></li>
               </ul> 
-            <h2>3. "A Marketing Page for a large corporation like Nintendo?"</h2>
+            <h2>3. A Marketing Page for a large corporation like Nintendo?</h2>
               <ul>
                 <li></li>
                 <li></li>
