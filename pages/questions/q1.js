@@ -37,9 +37,9 @@ export default function FirstQuestion() {
               </ul> 
           </p>
 
-          <h2>
+          <h1 className={styles.title}>
             <Link href="/">Return to Main Page</Link>
-          </h2>
+          </h1>
 
         </main>
 
