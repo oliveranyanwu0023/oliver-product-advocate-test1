@@ -18,23 +18,18 @@ export default function SecondQuestion() {
           <h1 className={styles.title}>Reflection on past experience</h1>
 
           <p className={styles.description}>
-            <h2>
               <i> a) In your next role, what are you looking to learn or do more of?</i>
-            </h2>
               In my next role, I&apos;m looking forward to learning, exploring and exercising the capabilities of Next.js to fluently help users, prospects and community members engage and succeed with their goals. With an excellent foundation of understanding of JavasScript and Reat alongside acknowledgement of the key benefits of Next.Js such as faster page loading, flexibility in building UX and UI and rapid feature development, I believe it would be an interesting open-source web development framework to add to my computational expertise.
 
               I&apos;m also looking forward to stretching my experience in sales, engineering and marketing, additionally demonstrating that the growing roles of technical Advocacy, Evangelism and Relations should be encouraged in a professional technological environment.
             
-            <h2>
               <i> b) Which (non-Vercel) technical or sales article, guide or lightning talk left the biggest positive impression on you? Why? (and please provide the link)?</i>
-            </h2>
 
-            In my final year at the University of Leeds&comma; I conducted research on Serverless Computing for my dissertation on Scalebale Serverless Workflows, and came across a technical article by Josef Spillner at Zurich University in Switzerland on the topic of <a href="https://dl.acm.org/doi/10.1145/3368235.3370269" className={styles.return}>Serverless Computing and Cloud Function-based Application. </a>
+              In my final year at the University of Leeds&comma; I conducted research on Serverless Computing for my dissertation on Scalebale Serverless Workflows, and came across a technical article by Josef Spillner at Zurich University in Switzerland on the topic of <a href="https://dl.acm.org/doi/10.1145/3368235.3370269" className={styles.linkme}>Serverless Computing and Cloud Function-based Application. </a>
 
-            This monumental piece of content was my first introduction to understanding the direction of technological businesses. It highlighted that businesses are going cloud...and they&apos;re not looking back. They were seeking scalability and flexibility and aim reduce costs by invoking backend services on an as-used basis. 
+              This monumental piece of content was my first introduction to understanding the direction of technological businesses. It highlighted that businesses are going cloud...and they&apos;re not looking back. They were seeking scalability and flexibility and aim reduce costs by invoking backend services on an as-used basis. 
 
-            Finishing a placement year at a company that were lacking serverless and cloud computing approaches, encouraged me to create awareness and teach individuals about reaping the benefits of Serverless Computing.
- 
+              Finishing a placement year at a company that were lacking serverless and cloud computing approaches, encouraged me to create awareness and teach individuals about reaping the benefits of Serverless Computing.
           </p>
 
           <h1 className={styles.return}>
