@@ -29,10 +29,7 @@ export default function ForthQuestion() {
               <p><b>Name:</b> Joe Fox</p>
               <p><b>Employees:</b> 1000+</p>
               <p><b>How can we help you:</b> New site launching soon using Next.js and we are thinking about using Vercel to host. I would like more information about the Enterprise option.</p>
-
-                <a className={styles.letter}>
-                  <p> LOOOOOOOOOOOL </p>
-                </a>
+              <p><b>Response: </b> <i> Hello Joe, thank you for reaching out to us! We’ve received your submission form and we&apos;re pleased to hear that you will be launching your new website soon. The Enterprise option is tailored for large businesses and with the number of employees at Barnes and Noble, we believe this package would be a great fit. We’d like to organise a call with you to give you further information about this option. Are you available for a call this afternoon after lunch? Kind Regards, Oliver</i></p>
 
             <h2>
               <u><b>Sales Inquiry: Would Pro or Enterprise fit better for my team?</b></u>
@@ -41,6 +38,7 @@ export default function ForthQuestion() {
               <p><b>Name:</b> Melissa Wright</p>
               <p><b>Employees:</b> 10-100</p>
               <p><b>How can we help you:</b> We are looking to re-platform our site and are considering Vercel. Would like to evaluate options to see if Pro or Enterprise would fit out needs better. Timeline is Q3. Can you help?</p>
+              <p><b>Response: </b> <i> Hello Joe, thank you for reaching out to us! We’ve received your submission form and were pleased to hear that you will be launching your new website soon. The Enterprise option is tailored for large businesses and with the number of employees at Barnes and Noble, we believe this package would be a great fit. We’d like to organise a call with you to give you further information about this option. Are you available for a call this afternoon after lunch? Kind Regards, Oliver</i></p>
         </p>
 
           <h1 className={styles.return}>
