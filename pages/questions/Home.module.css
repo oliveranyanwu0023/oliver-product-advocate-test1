@@ -45,6 +45,17 @@
   font-size: 2.5rem;
 }
 
+.return a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.return a:hover,
+.return a:focus,
+.return a:active {
+  text-decoration: underline;
+}
+
 .return {
   margin: 0;
   line-height: 1.15;
