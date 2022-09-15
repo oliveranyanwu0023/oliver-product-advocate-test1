@@ -26,20 +26,20 @@ export default function FifthQuestion() {
               <ul>
                 <li></li>
                 <li></li>
-                <li></li>
+
               </ul>
 
              <h2>2. An NFT?</h2>
               <ul>
                 <li>]</li>
                 <li></li>
-                <li></li>
+
               </ul> 
             <h2>3. A Marketing Page for a large corporation like Nintendo?</h2>
               <ul>
                 <li></li>
                 <li></li>
-                <li></li>
+
               </ul> 
           </p>
 
