@@ -24,7 +24,7 @@ export default function FirstQuestion() {
           <p className={styles.description}>
             <h2>Most Interested:</h2>
               <ul>
-                <li>Write direct and concise emails that dig into a prospect's pain points and needs</li>
+                <li>Write direct and concise emails that dig into a prospect&apos;s pain points and needs</li>
                 <li>Hop on a Zoom call to qualify a prospect or educate them about Vercel</li>
                 <li>Organize, Schedule & book meetings for Account Executives with prospects</li>
               </ul>
@@ -32,7 +32,7 @@ export default function FirstQuestion() {
              <h2>Least Interested:</h2>
               <ul>
                 <li>Research the headquarters & ownership of a company to determine who to route it to</li>
-                <li>Evaluate an application to help determine if it's commercial or not</li>
+                <li>Evaluate an application to help determine if it&apos;s commercial or not</li>
                 <li>Evaluate OSS sponsorship applications</li>
               </ul> 
           </p>
