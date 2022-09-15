@@ -1,6 +1,6 @@
+import Link from 'next/link'
 import Head from 'next/head'
 import Image from 'next/image'
-import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -14,7 +14,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <a href="https://www.linkedin.com/in/oliver-anyanwu/">Oliver Anyanwu</a>
+          Oliver Anyanwu <Link href="/questions/first-question">this page</Link>
         </h1>
 
         <p className={styles.description}>
@@ -22,9 +22,9 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <Link href="/questions/first-question" className={styles.card}>
-            <h2>1. Things a Product Advocate Might Do &rarr;</h2>
-          </Link>
+          <a href="" className={styles.card}>
+            <h2>1. Things a Product Advocate Might Do: &rarr;</h2>
+          </a>
 
           <a
             href=""
