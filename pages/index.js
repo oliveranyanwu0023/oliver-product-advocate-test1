@@ -22,9 +22,9 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="/questions/first-question" className={styles.card}>
+          <Link href="/questions/first-question" className={styles.card}>
             <h2>1. Things a Product Advocate Might Do &rarr;</h2>
-          </a>
+          </Link>
 
           <a
             href=""
