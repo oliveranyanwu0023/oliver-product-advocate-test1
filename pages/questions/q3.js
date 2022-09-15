@@ -15,7 +15,7 @@ export default function ThirdQuestion() {
         </Head>
 
         <main className={styles.main}>
-          <h1 className={styles.title}>Things a Product Advocate Might Do</h1>
+          <h1 className={styles.title}>Using Next.js</h1>
 
           <p className={styles.description}>
             <i>Add a temporary redirect to your Next/Vercel project</i>
