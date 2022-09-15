@@ -11,14 +11,14 @@ export default function FirstQuestion() {
 
       Most Interested:
 
-        - Write direct and concise emails that dig into a prospect's pain points and needs
+        - Write direct and concise emails that dig into a prospect&apos;s pain points and needs
         - Hop on a Zoom call to qualify a prospect or educate them about Vercel
         - Organize, Schedule & book meetings for Account Executives with prospects
 
         Least Interested:
 
         - Research the headquarters & ownership of a company to determine who to route it to
-        - Evaluate an application to help determine if it's commercial or not
+        - Evaluate an application to help determine if it&apos;s commercial or not
         - Evaluate OSS sponsorship applications
        
       </h2>
