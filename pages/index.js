@@ -23,9 +23,13 @@ export default function Home() {
 
         <div className={styles.grid}>
 
+
+          <a className={styles.card}>
           <Link href="/questions/q1" className={styles.card}>
             <h2>1. Things a Product Advocate Might Do &rarr;</h2>
           </Link>
+
+          </a>
 
           <a href="" className={styles.card}>
             <h2>2. Reflection on past experience &rarr;</h2>
@@ -42,6 +46,7 @@ export default function Home() {
           <a href=""className={styles.card}>
             <h2>5. Your personal recommendations &rarr;</h2>
           </a>
+
         </div>
       </main>
 
