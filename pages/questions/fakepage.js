@@ -8,7 +8,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Redirecting to Vercel</title>
-        <meta http-equiv = "refresh" content = "2; url = https://vercel.com" />
+        <meta http-equiv = "refresh" content = "1; url = https://vercel.com" />
       </Head>
 
       <main className={styles.main}>
