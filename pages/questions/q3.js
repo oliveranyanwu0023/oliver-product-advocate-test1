@@ -22,7 +22,7 @@ export default function ThirdQuestion() {
           </p>
 
           <p className={styles.description}>
-            ...OOPS, this page insn't ready yet. Click the button to take you to another question.
+            ...OOPS, this page isn&apos;t ready yet. Click the button to take you to another question.
           </p>
 
           <div className={styles.grid}>
