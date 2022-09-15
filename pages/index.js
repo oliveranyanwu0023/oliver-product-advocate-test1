@@ -21,33 +21,33 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://oliver-product-advocate-test1-fzlz7vr7d-oliveranyanwu0023.vercel.app/page1" className={styles.card}>
+          <a href="" className={styles.card}>
             <h2>1. Things a Product Advocate Might Do &rarr;</h2>
           </a>
 
           <a
-            href="https://oliver-product-advocate-test1-fzlz7vr7d-oliveranyanwu0023.vercel.app/page2"
+            href=""
             className={styles.card}
           >
             <h2>2. Reflection on past experience &rarr;</h2>
           </a>
 
           <a
-            href="https://oliver-product-advocate-test1-fzlz7vr7d-oliveranyanwu0023.vercel.app/page3"
+            href=""
             className={styles.card}
           >
             <h2>3. Using Next.js &rarr;</h2>
           </a>
 
           <a
-            href="https://oliver-product-advocate-test1-fzlz7vr7d-oliveranyanwu0023.vercel.app/page4"
+            href=""
             className={styles.card}
           >
             <h2>4. Practice Email Responses &rarr;</h2>
           </a>
 
           <a
-            href="https://oliver-product-advocate-test1-fzlz7vr7d-oliveranyanwu0023.vercel.app/page5"
+            href=""
             className={styles.card}
           >
             <h2>5. Your personal recommendations &rarr;</h2>
