@@ -30,9 +30,9 @@ export default function ForthQuestion() {
               <p><b>Employees:</b> 1000+</p>
               <p><b>How can we help you:</b> New site launching soon using Next.js and we are thinking about using Vercel to host. I would like more information about the Enterprise option.</p>
 
-            <a className={styles.card}>
-            <button style="font-size:24px">Response<i class="fa fa-envelope"></i></button>
-          </a>
+                <a className={styles.letter}>
+                  <p> LOOOOOOOOOOOL </p>
+                </a>
 
             <h2>
               <u><b>Sales Inquiry: Would Pro or Enterprise fit better for my team?</b></u>
@@ -42,8 +42,6 @@ export default function ForthQuestion() {
               <p><b>Employees:</b> 10-100</p>
               <p><b>How can we help you:</b> We are looking to re-platform our site and are considering Vercel. Would like to evaluate options to see if Pro or Enterprise would fit out needs better. Timeline is Q3. Can you help?</p>
  
-            <a className={styles.card}>
-            <button>Response<i class="fa fa-envelope"></i></button>
           </a>
         </p>
 
