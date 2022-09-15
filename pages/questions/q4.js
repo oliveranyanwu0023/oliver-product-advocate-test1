@@ -25,20 +25,23 @@ export default function ForthQuestion() {
             <h2>
               <u><b>Sales Inquiry: Do I need Enterprise?</b></u>
             </h2>
-              <p><b>Subject:</b>Sales Lead for barnesandnoble.com</p>
-              <p><b>Name:</b>Joe Fox</p>
-              <p><b>Employees:</b>1000+</p>
-              <p><b>How can we help you:</b>New site launching soon using Next.js and we are thinking about using Vercel to host. I would like more information about the Enterprise option.</p>
+              <p><b>Subject:</b> Sales Lead for barnesandnoble.com</p>
+              <p><b>Name:</b> Joe Fox</p>
+              <p><b>Employees:</b> 1000+</p>
+              <p><b>How can we help you:</b> New site launching soon using Next.js and we are thinking about using Vercel to host. I would like more information about the Enterprise option.</p>
+
+                <a className={styles.letter}>
+                  <p> LOOOOOOOOOOOL </p>
+                </a>
 
             <h2>
               <u><b>Sales Inquiry: Would Pro or Enterprise fit better for my team?</b></u>
             </h2>
-              <p><b>Subject:</b>Sales Lead for hipcamp.com</p>
-              <p><b>Name:</b>Melissa Wright</p>
-              <p><b>Employees:</b>10-100</p>
+              <p><b>Subject:</b> Sales Lead for hipcamp.com</p>
+              <p><b>Name:</b> Melissa Wright</p>
+              <p><b>Employees:</b> 10-100</p>
               <p><b>How can we help you:</b> We are looking to re-platform our site and are considering Vercel. Would like to evaluate options to see if Pro or Enterprise would fit out needs better. Timeline is Q3. Can you help?</p>
- 
-          </p>
+        </p>
 
           <h1 className={styles.return}>
             <Link href="/">Return to Main Page</Link>

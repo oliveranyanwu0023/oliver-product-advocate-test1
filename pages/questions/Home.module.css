@@ -93,14 +93,27 @@
 .card {
   margin: 1rem;
   padding: 1.5rem;
+  text-align: centre;
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  width: px;
+  height:  100px;
+}
+
+.email {
+  margin: 1rem;
+  padding: 1.5rem;
   text-align: left;
   color: inherit;
   text-decoration: none;
   border: 1px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  width: 300px;
-  height:  100px;
+  width: 500px;
+  height:  300px;
 }
 
 .card:hover,
