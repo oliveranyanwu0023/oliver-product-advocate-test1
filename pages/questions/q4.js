@@ -41,8 +41,6 @@ export default function ForthQuestion() {
               <p><b>Name:</b> Melissa Wright</p>
               <p><b>Employees:</b> 10-100</p>
               <p><b>How can we help you:</b> We are looking to re-platform our site and are considering Vercel. Would like to evaluate options to see if Pro or Enterprise would fit out needs better. Timeline is Q3. Can you help?</p>
- 
-          </a>
         </p>
 
           <h1 className={styles.return}>
