@@ -29,7 +29,7 @@ export default function SecondQuestion() {
               <i> b) Which (non-Vercel) technical or sales article, guide or lightning talk left the biggest positive impression on you? Why? (and please provide the link)?</i>
             </h3>
 
-            In my final year at the University of Leeds&comma; I conducted research on Serverless Computing for my dissertation on Scalebale Serverless Workflows, and came across a technical article by Josef Spillner at Zurich University in Switzerland on the topic of <a href="https://dl.acm.org/doi/10.1145/3368235.3370269">Serverless Computing and Cloud Function-based Application. </a>
+            In my final year at the University of Leeds&comma; I conducted research on Serverless Computing for my dissertation on Scalebale Serverless Workflows, and came across a technical article by Josef Spillner at Zurich University in Switzerland on the topic of <a href="https://dl.acm.org/doi/10.1145/3368235.3370269" style="color:red">Serverless Computing and Cloud Function-based Application. </a>
 
             This monumental piece of content was my first introduction to understanding the direction of technological businesses. It highlighted that businesses are going cloud...and they&apos;re not looking back. They were seeking scalability and flexibility and aim reduce costs by invoking backend services on an as-used basis. 
 
