@@ -29,7 +29,7 @@ export default function ThirdQuestion() {
 
             <a className={styles.card}>
               <Link href="/questions/fakepage">
-                <h2></h2>
+                <h2>Home Page &larr;</h2>
               </Link>
             </a>
 
