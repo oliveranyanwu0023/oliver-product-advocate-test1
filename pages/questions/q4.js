@@ -29,16 +29,17 @@ export default function ForthQuestion() {
               <p><b>Name:</b> Joe Fox</p>
               <p><b>Employees:</b> 1000+</p>
               <p><b>How can we help you:</b> New site launching soon using Next.js and we are thinking about using Vercel to host. I would like more information about the Enterprise option.</p>
-              <p><b>Response: </b> <i> Hello Joe, thank you for reaching out to us! We’ve received your submission form and we&apos;re pleased to hear that you will be launching your new website soon. The Enterprise option is tailored for large businesses and with the number of employees at Barnes and Noble, we believe this package would be a great fit. We’d like to organise a call with you to give you further information about this option. Are you available for a call this afternoon after lunch? Kind Regards, Oliver</i></p>
+              <p><b>Response: </b> <i> Hello Joe, thank you for reaching out to us! We’ve received your submission form and we&apos;re pleased to hear that you will be launching your new website soon. The Enterprise option is tailored for large businesses and with the number of employees at Barnes and Noble, we believe this package would be a great fit for your business. We’d like to organise a call with you to give you further information about this option. Are you available for a call this afternoon after lunch? Kind Regards</i></p>
 
             <h2>
               <u><b>Sales Inquiry: Would Pro or Enterprise fit better for my team?</b></u>
             </h2>
-              <p><b>Subject:</b> Sales Lead for hipcamp.com</p>
+              <p><b>Subject:</b> Sales Lead for hipca mp.com</p>
               <p><b>Name:</b> Melissa Wright</p>
               <p><b>Employees:</b> 10-100</p>
               <p><b>How can we help you:</b> We are looking to re-platform our site and are considering Vercel. Would like to evaluate options to see if Pro or Enterprise would fit out needs better. Timeline is Q3. Can you help?</p>
-              <p><b>Response: </b> <i> Hello Joe, thank you for reaching out to us! We’ve received your submission form and were pleased to hear that you will be launching your new website soon. The Enterprise option is tailored for large businesses and with the number of employees at Barnes and Noble, we believe this package would be a great fit. We’d like to organise a call with you to give you further information about this option. Are you available for a call this afternoon after lunch? Kind Regards, Oliver</i></p>
+              <p><b>Response: </b> <i> Hello Melissa, Thanks for submitting your form to our team and we’re more than happy to assist with your query. After reviewing your submission, and your stated employee range, we would still recommend opting you in for the Enterprise option. It’s the most scalable, high performing, secure option and would be a step in the right direction for when you’re re-platforming your website. You’d have a solid custom enterprise foundation to build and scale your site on with dedicated support manage an SLAs. Would you like me to organise a call this afternoon to make sure the package is meeting your business requirements? Kind Regards
+          </i></p>
         </p>
 
           <h1 className={styles.return}>
